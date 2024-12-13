@@ -13,6 +13,7 @@ public class ClassA {
 	public void demo()
 	{
 		System.out.println("I am in demo test");
+		System.out.println("I LOVE MY INDIA");
 	}
 	
 	@Test

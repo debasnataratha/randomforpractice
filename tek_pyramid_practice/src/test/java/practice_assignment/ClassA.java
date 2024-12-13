@@ -8,7 +8,12 @@ public class ClassA {
 	{
 		System.out.println("i am in sample test");
 		System.out.println("i have ppractices pull request");
-		System.out.println("i have ppractices pull request");
+		
+	}
+	@Test
+	public void demo()
+	{
+		System.out.println("llllllll");
 	}
 
 	@Test

@@ -3,13 +3,7 @@ package practice_assignment;
 import org.testng.annotations.Test;
 
 public class ClassA {
-	@Test
-	public void sample()
-	{
-		System.out.println("i am in sample test");
-		System.out.println("i have ppractices pull request");
-		
-	}
+	
 	@Test
 	public void demo()
 	{

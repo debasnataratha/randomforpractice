@@ -7,6 +7,7 @@ public class ClassA {
 	public void sample()
 	{
 		System.out.println("i am in sample test");
+		System.out.println("i have ppractices pull request");
 	}
 
 	@Test

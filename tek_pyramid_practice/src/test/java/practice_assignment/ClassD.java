@@ -14,4 +14,9 @@ public class ClassD {
 	{
 		System.out.println("some of the red ball");
 	}
+	@Test
+	public void fox(String a)
+	{
+		System.out.println("trying to practice on conficts");
+	}
 }

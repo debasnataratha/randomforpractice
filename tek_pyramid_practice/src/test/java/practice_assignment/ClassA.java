@@ -11,13 +11,6 @@ public class ClassA {
 		System.out.println("dhdhddjdd");
 	}
 
-	@Test
-	public void demo()
-	{
-		System.out.println("I am in demo test");
-		System.out.println("I LOVE MY INDIA");
-		
-	}
 	
 	@Test
 	public void remo()
